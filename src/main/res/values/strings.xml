@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tastaturaVirtuala</string>
+    <string name="cifra1">1</string>
+    <string name="cifra2">2</string>
+    <string name="cifra3">3</string>
+    <string name="cifra4">4</string>
+    <string name="cifra5">5</string>
+    <string name="cifra6">6</string>
+    <string name="cifra7">7</string>
+    <string name="cifra8">8</string>
+    <string name="cifra9">9</string>
+    <string name="cifra0">0</string>
+    <string name="literaA">A</string>
+    <string name="literaB">B</string>
+    <string name="literaC">C</string>
+    <string name="literaD">D</string>
+    <string name="literaE">E</string>
+    <string name="literaF">F</string>
+    <string name="Back">Back</string>
+    <string name="OK">OK</string>
+    <string name="Istoric">Istoric</string>
+    <string name="Introducere">Introdu datele</string>
+</resources>
